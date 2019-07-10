@@ -1,0 +1,17 @@
+{
+  "name": "lumux",
+  "version": "0.1.0",
+  "description": "multithreaded node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Joseph Harrison-Lim",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "@types/node": "^12.6.2",
+    "jest": "^24.8.0",
+    "typescript": "^3.5.3"
+  }
+}
